@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258408849202",
+    "project_id": "musicsteppr-54d03",
+    "storage_bucket": "musicsteppr-54d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258408849202:android:4d79045cd83d185fe2412b",
+        "android_client_info": {
+          "package_name": "com.example.app_xyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258408849202-tv2puphi0klk6jde7c6lsidks0r51e0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqqXnQFsf2WlN-UMn_PnpDhuLC2y7NoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258408849202-tv2puphi0klk6jde7c6lsidks0r51e0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
